@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="9DGUQZyVQF0DHj5FkWRD">
     <mxGraphModel dx="1737" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -161,11 +161,8 @@
             <mxPoint x="-60" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="si7GJpF5iETkjapc_ZAv-57" parent="si7GJpF5iETkjapc_ZAv-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="月檢討報表" vertex="1">
-          <mxGeometry height="30" width="80" x="-30" y="710" as="geometry" />
-        </mxCell>
-        <mxCell id="si7GJpF5iETkjapc_ZAv-55" parent="si7GJpF5iETkjapc_ZAv-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="買進/賣出報告&lt;br&gt;ETF/股票/債券" vertex="1">
-          <mxGeometry height="40" width="100" x="-40" y="760" as="geometry" />
+        <mxCell id="si7GJpF5iETkjapc_ZAv-57" parent="si7GJpF5iETkjapc_ZAv-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="月檢討報表 * 1" vertex="1">
+          <mxGeometry height="30" width="100" x="-50" y="700" as="geometry" />
         </mxCell>
         <mxCell id="si7GJpF5iETkjapc_ZAv-11" edge="1" parent="1" source="si7GJpF5iETkjapc_ZAv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="si7GJpF5iETkjapc_ZAv-6">
           <mxGeometry relative="1" as="geometry" />
@@ -279,6 +276,9 @@
           <mxGeometry relative="1" x="0.2682" y="1" as="geometry">
             <mxPoint x="4" y="-19" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="si7GJpF5iETkjapc_ZAv-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="買進/賣出報告 * 6&lt;br&gt;資產池管理表 * 1" vertex="1">
+          <mxGeometry height="40" width="120" x="330" y="900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
