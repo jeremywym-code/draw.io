@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="9DGUQZyVQF0DHj5FkWRD">
-    <mxGraphModel dx="1737" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
         <mxCell id="si7GJpF5iETkjapc_ZAv-6" parent="si7GJpF5iETkjapc_ZAv-14" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" value="" vertex="1">
           <mxGeometry height="45" width="50" x="20" as="geometry" />
         </mxCell>
-        <mxCell id="si7GJpF5iETkjapc_ZAv-10" parent="si7GJpF5iETkjapc_ZAv-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Dev Station" vertex="1">
+        <mxCell id="si7GJpF5iETkjapc_ZAv-10" parent="si7GJpF5iETkjapc_ZAv-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Prod Station" vertex="1">
           <mxGeometry height="30" width="90" y="45" as="geometry" />
         </mxCell>
         <mxCell id="si7GJpF5iETkjapc_ZAv-17" parent="si7GJpF5iETkjapc_ZAv-4" style="swimlane;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;gradientColor=none;swimlaneFillColor=#99CCFF;" value="WEB AI" vertex="1">
@@ -163,6 +163,9 @@
         </mxCell>
         <mxCell id="si7GJpF5iETkjapc_ZAv-57" parent="si7GJpF5iETkjapc_ZAv-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="月檢討報表 * 1" vertex="1">
           <mxGeometry height="30" width="100" x="-50" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="BaJUGjz2hTg13h2PchCr-1" parent="si7GJpF5iETkjapc_ZAv-4" style="swimlane;whiteSpace=wrap;html=1;" value="管制室 (安全區域)" vertex="1">
+          <mxGeometry height="230" width="220" x="20" y="40" as="geometry" />
         </mxCell>
         <mxCell id="si7GJpF5iETkjapc_ZAv-11" edge="1" parent="1" source="si7GJpF5iETkjapc_ZAv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="si7GJpF5iETkjapc_ZAv-6">
           <mxGeometry relative="1" as="geometry" />
